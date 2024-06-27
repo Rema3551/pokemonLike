@@ -4,6 +4,7 @@
         "*.cpp": "cpp",
         "xstring": "cpp",
         "system_error": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "list": "cpp"
     }
 }
