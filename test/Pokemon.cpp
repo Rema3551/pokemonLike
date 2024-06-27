@@ -10,7 +10,6 @@ private:
     string name;
     //Faire une class Type
     string type;
-    bool estKo;
     //Faire une class Attaque
     string attaques;
 
@@ -21,7 +20,6 @@ public:
     int GetLvl();
     string GetName();
     string GetType();
-    bool GetKo();
     string GetAttaques();
     // Mutateurs
     void SetHp(int newHp);
@@ -29,7 +27,6 @@ public:
     void SetLvl(int newLvl);
     void SetName(string newName);
     void SetType(string newType);
-    void SetKo(bool newKo);
     void SetAttaques(string newAttaques);
     // Constructeur
     Pokemon(int hp, int xp, int lvl, string name, string type, string attaques);
@@ -44,7 +41,6 @@ Pokemon::Pokemon(int hp, int xp, int lvl, string name, string type, string attaq
     this->name = name;
     this->type = type;
     this->attaques = attaques;
-    this->estKo = false;
 }
 
 // Definition des méthodes
