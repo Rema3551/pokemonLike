@@ -71,10 +71,6 @@ string Pokemon::GetType()
     return this->type;
 }
 
-bool Pokemon::GetKo()
-{
-    return this->estKo;
-}
 
 string Pokemon::GetAttaques()
 {
@@ -106,11 +102,6 @@ void Pokemon::SetName(string newName)
 void Pokemon::SetType(string newType)
 {   
     this->type = newType;
-}
-
-void Pokemon::SetKo(bool newKo)
-{   
-    this->estKo = newKo;
 }
 
 void Pokemon::SetAttaques(string newAttaques)
