@@ -1,6 +1,7 @@
 #include <iostream>
+#include <list>
 using namespace std;
-
+#include "Attaque.cpp"
 
 class Pokemon {
 private:
@@ -8,10 +9,10 @@ private:
     int xp;
     int level;
     string name;
-    //Faire une class Type
     string type;
     //Faire une class Attaque
-    string attaques;
+    list<Attaque> attaques;
+
 
 public:
     // Accesseurs
@@ -20,20 +21,22 @@ public:
     int GetLvl();
     string GetName();
     string GetType();
-    string GetAttaques();
+    list<Attaque> GetAttaques();
     // Mutateurs
     void SetHp(int newHp);
     void SetXp(int newXp);
     void SetLvl(int newLvl);
     void SetName(string newName);
     void SetType(string newType);
-    void SetAttaques(string newAttaques);
+    void SetAttaques(list<Attaque> newAttaques);
+    // Autres Méthodes
+    void attaquer(Attaque attaque, Pokemon adversaire);
     // Constructeur
-    Pokemon(int hp, int xp, int lvl, string name, string type, string attaques);
+    Pokemon(int hp, int xp, int lvl, string name, string type, list<Attaque> attaques);
 };
 
 // Definition du constructeur
-Pokemon::Pokemon(int hp, int xp, int lvl, string name, string type, string attaques)
+Pokemon::Pokemon(int hp, int xp, int lvl, string name, string type, list<Attaque> attaques)
 {
     this->hp = hp;
     this->xp = xp;
@@ -72,7 +75,7 @@ string Pokemon::GetType()
 }
 
 
-string Pokemon::GetAttaques()
+list<Attaque> Pokemon::GetAttaques()
 {
     return this->attaques;
 }
@@ -104,7 +107,13 @@ void Pokemon::SetType(string newType)
     this->type = newType;
 }
 
-void Pokemon::SetAttaques(string newAttaques)
+void Pokemon::SetAttaques(list<Attaque> newAttaques)
 {   
     this->attaques = newAttaques;
+}
+
+// Autres Méthodes
+
+void Pokemon::attaquer(Attaque attaque, Pokemon adversaire){
+    adversaire.SetHp(adversaire.GetHp() - attaque.GetPuissance());
 }
