@@ -2,6 +2,7 @@
 #include <list>
 using namespace std;
 #include "Attaque.cpp"
+#include "Special_c.cpp"
 
 class Pokemon {
 private:

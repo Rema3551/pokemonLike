@@ -6,17 +6,20 @@ private:
     string type;
     int puissance;
     float precision;
+    string specialisation;
     int pp;
 public:
     // Accesseurs:
     string GetType();
     int GetPuissance();
     float GetPrecision();
+    string GetSpecialisation();
     int GetPp();
     // Mutateurs:
     void SetType(string newType);
     void SetPuissance(int newPuissance);
     void SetPrecision(float newPrecision);
+    void SetSpecialisation(string newSpecialisation);
     void SetPp(int pp);
     // Constructeur:
     Attaque(string type, int puissance, float precision, int pp);
