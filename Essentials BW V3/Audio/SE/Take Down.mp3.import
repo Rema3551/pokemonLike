@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://6tdt1fvyphmg"
+path="res://.godot/imported/Take Down.mp3-c59f36567fc1d6175b8b19325e905216.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Take Down.mp3"
+dest_files=["res://.godot/imported/Take Down.mp3-c59f36567fc1d6175b8b19325e905216.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

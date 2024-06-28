@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://5otkgf0phlt0"
+path="res://.godot/imported/Ice8.ogg-6ae131180d2cb6e722914afdbfade24e.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Ice8.ogg"
+dest_files=["res://.godot/imported/Ice8.ogg-6ae131180d2cb6e722914afdbfade24e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

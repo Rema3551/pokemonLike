@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://wviprfqvb3ys"
+path="res://.godot/imported/Sweet Scent.mp3-5bac69a0066cc547f13dbefc0c098e70.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Sweet Scent.mp3"
+dest_files=["res://.godot/imported/Sweet Scent.mp3-5bac69a0066cc547f13dbefc0c098e70.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

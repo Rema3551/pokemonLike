@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://r4ax1y3omjbh"
+path="res://.godot/imported/Earth5.ogg-c46083399a1b3f4c30674225e76c5cfd.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Earth5.ogg"
+dest_files=["res://.godot/imported/Earth5.ogg-c46083399a1b3f4c30674225e76c5cfd.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

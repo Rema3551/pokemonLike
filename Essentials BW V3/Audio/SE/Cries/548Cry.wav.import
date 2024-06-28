@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://4avwfll5kjf5"
+path="res://.godot/imported/548Cry.wav-ab1d9c2777ed77ccc0898f5198ef2340.sample"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Cries/548Cry.wav"
+dest_files=["res://.godot/imported/548Cry.wav-ab1d9c2777ed77ccc0898f5198ef2340.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

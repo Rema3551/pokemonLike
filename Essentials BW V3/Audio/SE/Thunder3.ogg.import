@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cqy8sfmbc2qec"
+path="res://.godot/imported/Thunder3.ogg-83247db3f8f1d253576bb1385f7d67ef.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Thunder3.ogg"
+dest_files=["res://.godot/imported/Thunder3.ogg-83247db3f8f1d253576bb1385f7d67ef.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

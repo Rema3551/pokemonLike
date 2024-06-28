@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c1tw11oaeaiig"
+path="res://.godot/imported/Darkness2.ogg-acf05165bea94634cc1dbdc78af0254e.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Darkness2.ogg"
+dest_files=["res://.godot/imported/Darkness2.ogg-acf05165bea94634cc1dbdc78af0254e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

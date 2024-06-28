@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://14ow5bxir2eu"
+path="res://.godot/imported/Twine.ogg-43e9411e99bfd9e55a7328dc959d6238.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Twine.ogg"
+dest_files=["res://.godot/imported/Twine.ogg-43e9411e99bfd9e55a7328dc959d6238.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

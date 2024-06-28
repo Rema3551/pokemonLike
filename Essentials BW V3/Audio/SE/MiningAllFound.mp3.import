@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://djbrtnecafq7b"
+path="res://.godot/imported/MiningAllFound.mp3-a65c10da28fa04936af71ad605dae5df.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/MiningAllFound.mp3"
+dest_files=["res://.godot/imported/MiningAllFound.mp3-a65c10da28fa04936af71ad605dae5df.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

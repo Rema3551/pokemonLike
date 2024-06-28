@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bynwoqj2xucyf"
+path="res://.godot/imported/Fire4.ogg-ebabe81fcb81e401b2695a26e14b9c20.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Fire4.ogg"
+dest_files=["res://.godot/imported/Fire4.ogg-ebabe81fcb81e401b2695a26e14b9c20.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

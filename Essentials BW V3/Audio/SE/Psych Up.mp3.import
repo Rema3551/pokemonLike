@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cqi7k8n3x7phj"
+path="res://.godot/imported/Psych Up.mp3-17ace6c4aad44da13774e933456b68a9.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Psych Up.mp3"
+dest_files=["res://.godot/imported/Psych Up.mp3-17ace6c4aad44da13774e933456b68a9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

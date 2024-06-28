@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b4bv04ow8g2py"
+path="res://.godot/imported/BW2MenuSelect.WAV-42a6f04d76714db7ba1601ca636db3cb.sample"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/BW2MenuSelect.WAV"
+dest_files=["res://.godot/imported/BW2MenuSelect.WAV-42a6f04d76714db7ba1601ca636db3cb.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

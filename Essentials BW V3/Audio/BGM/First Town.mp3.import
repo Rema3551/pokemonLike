@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bebykni821nlp"
+path="res://.godot/imported/First Town.mp3-545ac5acbeeb2836dd4691be065a4d89.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/BGM/First Town.mp3"
+dest_files=["res://.godot/imported/First Town.mp3-545ac5acbeeb2836dd4691be065a4d89.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

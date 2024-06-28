@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://gvi60r4mhp60"
+path="res://.godot/imported/Scary Face.mp3-f92ba2b24d5ba9bdb6044ac8b4bb53e8.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Scary Face.mp3"
+dest_files=["res://.godot/imported/Scary Face.mp3-f92ba2b24d5ba9bdb6044ac8b4bb53e8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

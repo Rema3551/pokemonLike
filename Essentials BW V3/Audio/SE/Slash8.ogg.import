@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bpv83s3e8dbfp"
+path="res://.godot/imported/Slash8.ogg-fb126057c57b08b4b6515b71e515d34c.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Slash8.ogg"
+dest_files=["res://.godot/imported/Slash8.ogg-fb126057c57b08b4b6515b71e515d34c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

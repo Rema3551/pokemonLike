@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c0r6vlh84ay1c"
+path="res://.godot/imported/Foresight.mp3-5df6831af9e87dd67bef988410d9e6ac.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Foresight.mp3"
+dest_files=["res://.godot/imported/Foresight.mp3-5df6831af9e87dd67bef988410d9e6ac.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

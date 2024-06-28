@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bsvpxmumvxay4"
+path="res://.godot/imported/Blow7.ogg-d8922403af8b43591f88a760c960f2a7.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Blow7.ogg"
+dest_files=["res://.godot/imported/Blow7.ogg-d8922403af8b43591f88a760c960f2a7.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

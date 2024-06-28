@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://chwm2sbdv18pi"
+path="res://.godot/imported/Saint7.ogg-2888d02587f9e27be011d8b982f57106.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Saint7.ogg"
+dest_files=["res://.godot/imported/Saint7.ogg-2888d02587f9e27be011d8b982f57106.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bwyfapntl5rau"
+path="res://.godot/imported/Harden.mp3-1a1032864d3fc758433e64297d8af4bb.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Harden.mp3"
+dest_files=["res://.godot/imported/Harden.mp3-1a1032864d3fc758433e64297d8af4bb.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

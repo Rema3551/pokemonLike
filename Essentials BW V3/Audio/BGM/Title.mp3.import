@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c21xjuaitdbti"
+path="res://.godot/imported/Title.mp3-5e2abcc3af8de2c2ba2097de616e7605.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/BGM/Title.mp3"
+dest_files=["res://.godot/imported/Title.mp3-5e2abcc3af8de2c2ba2097de616e7605.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

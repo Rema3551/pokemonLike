@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cjsyrfmygeh3m"
+path="res://.godot/imported/Wind7.ogg-504c2b740906afaa39708272a3e9ade9.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Wind7.ogg"
+dest_files=["res://.godot/imported/Wind7.ogg-504c2b740906afaa39708272a3e9ade9.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://v7oq3mde4o1r"
+path="res://.godot/imported/Bow1.ogg-daefbba14be35eaf629751da8a9825cb.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Bow1.ogg"
+dest_files=["res://.godot/imported/Bow1.ogg-daefbba14be35eaf629751da8a9825cb.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

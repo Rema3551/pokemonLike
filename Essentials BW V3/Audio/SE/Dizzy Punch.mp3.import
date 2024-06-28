@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ctyr43bdnav4t"
+path="res://.godot/imported/Dizzy Punch.mp3-372c3a510ba7af9e967da94c9826bff3.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Dizzy Punch.mp3"
+dest_files=["res://.godot/imported/Dizzy Punch.mp3-372c3a510ba7af9e967da94c9826bff3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

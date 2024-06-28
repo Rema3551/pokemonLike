@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b1ygnra0nd22d"
+path="res://.godot/imported/BW2Summary.mp3-c1d148b74f3b24b29a3ac3e67e649880.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/BW2Summary.mp3"
+dest_files=["res://.godot/imported/BW2Summary.mp3-c1d148b74f3b24b29a3ac3e67e649880.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

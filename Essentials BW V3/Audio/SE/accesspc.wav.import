@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c1gnany5wkw87"
+path="res://.godot/imported/accesspc.wav-a666ed868454953397e618a915f2edfd.sample"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/accesspc.wav"
+dest_files=["res://.godot/imported/accesspc.wav-a666ed868454953397e618a915f2edfd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

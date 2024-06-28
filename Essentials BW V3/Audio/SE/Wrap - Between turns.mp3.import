@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bycxp7obtyq0f"
+path="res://.godot/imported/Wrap - Between turns.mp3-535213ff2c8e8d2a06636ab86bef672f.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Wrap - Between turns.mp3"
+dest_files=["res://.godot/imported/Wrap - Between turns.mp3-535213ff2c8e8d2a06636ab86bef672f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

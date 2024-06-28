@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c18d1ch73xrd6"
+path="res://.godot/imported/Sleep.ogg-d00756a73c8b15a36ac1dd1e67f9be83.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Sleep.ogg"
+dest_files=["res://.godot/imported/Sleep.ogg-d00756a73c8b15a36ac1dd1e67f9be83.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

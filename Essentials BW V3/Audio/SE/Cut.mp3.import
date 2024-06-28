@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://rjo77txd77xi"
+path="res://.godot/imported/Cut.mp3-9776c69a94f04cd8f3bf6b19a08e1b90.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Cut.mp3"
+dest_files=["res://.godot/imported/Cut.mp3-9776c69a94f04cd8f3bf6b19a08e1b90.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

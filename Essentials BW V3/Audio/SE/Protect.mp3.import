@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dag533og8lao2"
+path="res://.godot/imported/Protect.mp3-73831c1b16ae9cb1af3b9ed26bdf5828.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Protect.mp3"
+dest_files=["res://.godot/imported/Protect.mp3-73831c1b16ae9cb1af3b9ed26bdf5828.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

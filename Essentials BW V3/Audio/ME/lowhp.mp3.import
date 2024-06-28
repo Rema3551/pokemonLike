@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://3s2pfmaf1t2a"
+path="res://.godot/imported/lowhp.mp3-39fb9c3ed2c3db827ace7aac3e5f49bf.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/ME/lowhp.mp3"
+dest_files=["res://.godot/imported/lowhp.mp3-39fb9c3ed2c3db827ace7aac3e5f49bf.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

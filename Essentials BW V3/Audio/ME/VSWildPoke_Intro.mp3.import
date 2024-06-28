@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dw8qml24qgd0c"
+path="res://.godot/imported/VSWildPoke_Intro.mp3-47c69aa2ae6a280b5f7a0022b901fe26.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/ME/VSWildPoke_Intro.mp3"
+dest_files=["res://.godot/imported/VSWildPoke_Intro.mp3-47c69aa2ae6a280b5f7a0022b901fe26.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

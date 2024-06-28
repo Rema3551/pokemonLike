@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bnjyhyhbvfxhc"
+path="res://.godot/imported/VictoryTrainer.mp3-fdd63a3adaa4f5e97baa8643e7009286.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/BGM/VictoryTrainer.mp3"
+dest_files=["res://.godot/imported/VictoryTrainer.mp3-fdd63a3adaa4f5e97baa8643e7009286.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

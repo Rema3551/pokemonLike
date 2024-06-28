@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://wnn52aelevrx"
+path="res://.godot/imported/Sound2.ogg-4eaeb0a2137852bb8a0d176d9b230e30.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Sound2.ogg"
+dest_files=["res://.godot/imported/Sound2.ogg-4eaeb0a2137852bb8a0d176d9b230e30.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

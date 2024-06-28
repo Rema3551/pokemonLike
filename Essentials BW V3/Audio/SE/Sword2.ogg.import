@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://5l5m5wcguh1e"
+path="res://.godot/imported/Sword2.ogg-02cc9a0ccc04ca72d6a3996a8f7cbf4d.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Sword2.ogg"
+dest_files=["res://.godot/imported/Sword2.ogg-02cc9a0ccc04ca72d6a3996a8f7cbf4d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

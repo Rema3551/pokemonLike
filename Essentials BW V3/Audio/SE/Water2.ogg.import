@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bdmw31x26g58r"
+path="res://.godot/imported/Water2.ogg-b1b5c09010b6f1e85f65e2b77373e283.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Water2.ogg"
+dest_files=["res://.godot/imported/Water2.ogg-b1b5c09010b6f1e85f65e2b77373e283.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

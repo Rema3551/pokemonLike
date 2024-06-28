@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://by5jm8saw55f"
+path="res://.godot/imported/Knock.ogg-1f77ff57fae5667b63f0a1f51587e8dd.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Knock.ogg"
+dest_files=["res://.godot/imported/Knock.ogg-1f77ff57fae5667b63f0a1f51587e8dd.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

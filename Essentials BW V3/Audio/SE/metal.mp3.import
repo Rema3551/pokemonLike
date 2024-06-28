@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ch18b4uv246kt"
+path="res://.godot/imported/metal.mp3-f6a6f59fab35f5d060fb9a1e78b07e87.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/metal.mp3"
+dest_files=["res://.godot/imported/metal.mp3-f6a6f59fab35f5d060fb9a1e78b07e87.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

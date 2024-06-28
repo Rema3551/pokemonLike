@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dxiaershyl575"
+path="res://.godot/imported/throw.wav-42f99be5bf949a7aa3adb401a05b2b0f.sample"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/throw.wav"
+dest_files=["res://.godot/imported/throw.wav-42f99be5bf949a7aa3adb401a05b2b0f.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

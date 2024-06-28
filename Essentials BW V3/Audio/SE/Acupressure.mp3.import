@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b0wkkyke8an71"
+path="res://.godot/imported/Acupressure.mp3-3bf76a731658abaf12dcc1ff0921c279.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Acupressure.mp3"
+dest_files=["res://.godot/imported/Acupressure.mp3-3bf76a731658abaf12dcc1ff0921c279.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b1ptpfm37qb6n"
+path="res://.godot/imported/SlotsCoin.wav-14a536e6e4c4a6931a314d072500fa17.sample"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/SlotsCoin.wav"
+dest_files=["res://.godot/imported/SlotsCoin.wav-14a536e6e4c4a6931a314d072500fa17.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

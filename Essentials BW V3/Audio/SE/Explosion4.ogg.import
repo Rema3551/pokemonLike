@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ltx7pvpjfovd"
+path="res://.godot/imported/Explosion4.ogg-1e6f48a53e535431aa24eb0c0d9ba7ae.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Explosion4.ogg"
+dest_files=["res://.godot/imported/Explosion4.ogg-1e6f48a53e535431aa24eb0c0d9ba7ae.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

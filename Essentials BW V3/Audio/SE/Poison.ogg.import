@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b0yu0f464l30m"
+path="res://.godot/imported/Poison.ogg-c079c4c07413b03c9ed81534a8e81176.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Poison.ogg"
+dest_files=["res://.godot/imported/Poison.ogg-c079c4c07413b03c9ed81534a8e81176.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

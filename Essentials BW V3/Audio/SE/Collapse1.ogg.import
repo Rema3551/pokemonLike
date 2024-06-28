@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c7mgdpy6fn7qp"
+path="res://.godot/imported/Collapse1.ogg-b31d1ec5ea91f4de7deef6e7b07ef672.oggvorbisstr"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Collapse1.ogg"
+dest_files=["res://.godot/imported/Collapse1.ogg-b31d1ec5ea91f4de7deef6e7b07ef672.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

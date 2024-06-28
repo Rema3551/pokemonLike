@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d1l3voo2gmjrf"
+path="res://.godot/imported/Present - Heal.mp3-5e3b4b12b142aa4bc4d989f9ee3eefed.mp3str"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/Present - Heal.mp3"
+dest_files=["res://.godot/imported/Present - Heal.mp3-5e3b4b12b142aa4bc4d989f9ee3eefed.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

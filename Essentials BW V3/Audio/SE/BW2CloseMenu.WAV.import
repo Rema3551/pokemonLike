@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dao4sf4a4tn8f"
+path="res://.godot/imported/BW2CloseMenu.WAV-e9fe36a1ba22ca33005f4e8a704180fc.sample"
+
+[deps]
+
+source_file="res://Essentials BW V3/Audio/SE/BW2CloseMenu.WAV"
+dest_files=["res://.godot/imported/BW2CloseMenu.WAV-e9fe36a1ba22ca33005f4e8a704180fc.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
